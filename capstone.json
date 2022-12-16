@@ -1,1 +1,34 @@
-
+{
+  "menu": [
+    {
+      "title": "Greek Salad",
+      "price": 12.99,
+      "description": "Our delicious salad is served with Feta cheese and peeled cucumber. Includes tomatoes, onions, olives, salt and oregano in the ingredients.",
+      "url": ""
+    },
+    {
+      "title": "Bruschetta",
+      "price": 7.99,
+      "description": "Delicious grilled bread rubbed with garlic and topped with olive oil and salt. Our Bruschetta includes tomato and cheese.",
+      "url": ""
+    },
+    {
+      "title": "Grilled Fish",
+      "price": 20.00,
+      "description": "Fantastic grilled fish seasoned with salt.",
+      "url": ""
+    },
+    {
+      "title": "Pasta",
+      "price": 6.99,
+      "description": "Delicious pasta for your delight.",
+      "url": ""
+    },
+    {
+      "title": "Lemon Dessert",
+      "price": 4.99,
+      "description": "You can't go wrong with this delicious lemon dessert!",
+      "url": ""    
+    }
+  ]
+}
